@@ -1,11 +1,3 @@
-/*
- * @Author: aikeblog 1736134512@qq.com
- * @Date: 2022-10-17 17:05:32
- * @LastEditors: aikeblog 1736134512@qq.com
- * @LastEditTime: 2022-10-17 17:24:23
- * @FilePath: \aikeblog\themes\butterfly\source\js\sum_moon.js
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
 function switchNightMode() {
     document.querySelector('body').insertAdjacentHTML('beforeend', '<div class="Cuteen_DarkSky"><div class="Cuteen_DarkPlanet"></div></div>'),
       setTimeout(function() {

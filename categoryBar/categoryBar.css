@@ -1,7 +1,7 @@
 /* 首页分类条展示 */
 #category-bar{
     padding: 0.4rem 1rem 0.4rem 0.5rem;
-    background: var(--heo-card-bg);
+    background: var(--aike-card-bg);
     border-radius: 12px;
     display: flex;
     white-space: nowrap;
@@ -54,13 +54,13 @@
   }
   
   .category-bar-item:hover a{
-    background: var(--heo-main);
-    color: var(--heo-white);
+    background: var(--aike-main);
+    color: var(--aike-white);
   }
   
   .category-bar-item.select a {
-    background: var(--heo-main);
-    color: var(--heo-white);
+    background: var(--aike-main);
+    color: var(--aike-white);
     border-radius: 12px;
   }
   
